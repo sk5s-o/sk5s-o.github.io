@@ -1,6 +1,6 @@
 [sk5short](https://sk5s.github.io/sk5short/)
 
-<!-- 
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sk5s/sk5s.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
