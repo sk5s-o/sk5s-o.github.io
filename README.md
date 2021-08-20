@@ -1,4 +1,7 @@
-[sk5short](https://sk5s.github.io/sk5short/)
+- [sk5short](https://sk5s.github.io/sk5short/)
+- [sk5short one](https://github.com/sk5s/sk5short-one)
+- [sk5smarklink simple](https://www.sk5s.cyou/sk5smarklink/simple/)
+- [sk5sub](https://github.com/sk5s/sk5sub)
 
 <!--
 ## Welcome to GitHub Pages
