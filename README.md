@@ -1,3 +1,6 @@
+---
+title: sk5s
+---
 - [sk5short](https://sk5s.github.io/sk5short/)
 - [sk5short desktop](https://github.com/sk5s/sk5short-desktop)
 - [sk5short one](https://github.com/sk5s/sk5short-one)
